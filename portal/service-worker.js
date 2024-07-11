@@ -1,4 +1,4 @@
-const CACHE_NAME = 'esp32-settings-v1';
+const CACHE_NAME = 'esp32-settings-v2';
 
 self.addEventListener('fetch', (event) => {
   event.respondWith(
