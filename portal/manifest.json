@@ -4,7 +4,7 @@
   "description": "Settings for Tuben Display",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#131313",
+  "background_color": "#e31414",
   "theme_color": "#131313",
   "icons": [
     {
